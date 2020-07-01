@@ -1,6 +1,6 @@
 # KingdomsX
 [![Spigot Version](https://img.shields.io/badge/Spigot-1.15-dark_green.svg)](https://shields.io/)
-<img src="https://i.imgur.com/yJI3kra.png" width="50%">
+<img src="https://i.imgur.com/fqipSc6.png">
 
 Battles for might, land and glory.
 
